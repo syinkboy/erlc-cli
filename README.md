@@ -8,7 +8,7 @@ Built this mostly to get better at Go while making something I'd actually use. T
 
 Get a server key from https://erlc.link/sk, then:
 
-git clone https://github.com/Syink/erlc-cli
+git clone [https://github.com/Syink/erlc-cli](https://github.com/syinkboy/erlc-cli)
 cd erlc-cli
 go mod tidy
 export ERLC_SERVER_KEY=your_key_here
