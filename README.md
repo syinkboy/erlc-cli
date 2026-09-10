@@ -13,6 +13,8 @@ cd erlc-cli
 go mod tidy
 export ERLC_SERVER_KEY=your_key_here
 
+Log in at https://api.erlc.gg/server-owners and add your IP address to the spesific server so the commands will run.
+
 ## Usage
 go run.status
 go run.players
